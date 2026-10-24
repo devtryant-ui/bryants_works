@@ -6,7 +6,7 @@ I use this repository as a platform to share my investment research. I'm happy t
 
 | Company | Date | Call | Memo |
 | --- | --- | --- | --- |
-| Intel (NASDAQ: INTC) | 24 October 2026 | Buy | [Read online](Intel/README.md) · [PDF](Intel/Intel_Memo.pdf) |
+| Intel (NASDAQ: INTC) | 24 October 2026 | Buy | [Read online](Intel_Investment_Memo.md) · [PDF](Investment_Memo_Intel.pdf) |
 
 ## Disclaimer
 
