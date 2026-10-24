@@ -1,0 +1,7 @@
+# Line endings: text is stored with LF.
+* text=auto eol=lf
+
+# Binary files: no line-ending conversion and no text diff. No Git LFS here.
+*.pdf binary
+*.xlsx binary
+*.png binary
