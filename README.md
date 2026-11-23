@@ -6,6 +6,7 @@ I use this repository as a platform to share my investment research. I'm happy t
 
 | Company | Date | Call | Memo |
 | --- | --- | --- | --- |
+| UBS (NYSE: UBS) | 23 November 2026 | Hold | [Read online](UBS_Investment_Memo.md) · [Word](UBS_Investment_Memo.docx) |
 | Intel (NASDAQ: INTC) | 24 October 2026 | Buy | [Read online](Intel_Investment_Memo.md) · [PDF](Investment_Memo_Intel.pdf) |
 
 ## Disclaimer
