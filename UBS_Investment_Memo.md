@@ -185,3 +185,5 @@ Four parties give figures for the same three things, and they differ. The table 
 UBS's USD 16bn is its own figure. Counted its way on my model's balance sheet, that of 30 September 2026, it is USD 15bn; the government's count and mine are on the same balance sheet.
 
 If you'd like to discuss any of this further, reach out to me. devtryant@gmail.com
+
+**Disclosure.** This memo is personal research. It is not investment advice, or an offer or solicitation to buy or sell any security. As of 23 November 2026, I hold no position in UBS.
